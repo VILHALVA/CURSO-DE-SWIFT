@@ -2,15 +2,8 @@
 👨‍⚖️SWIFT É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Swift)
-
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.apple.com/br/swift/) <br>
-
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.apple.com/br/swift/) 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://www.youtube.com/playlist?list=PLTl7hsEfhCWVx6os_oOHpJF_YrJmRnIQk)
-
-<img src="https://imagens.tiespecialistas.com.br/2014/10/swift620-620x451.jpg" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
