@@ -84,4 +84,5 @@ Desde seu lançamento inicial, o Swift tem continuado a evoluir com novas versõ
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://www.apple.com/br/swift/)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:SWIFT)
 
